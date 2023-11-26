@@ -34,7 +34,7 @@ seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat da
 aplikasi World Wide Web menggunakan client–server model
 
 # Ini berawal paada awal tahun 2019 awalnya saya mencoba untuk membuat sebuah web sendiri menggunakan Bloger
-* [https://www.blogger.com] 
+
 
 dan di situ awal saya membuat sebua web berbasis Blog
 
