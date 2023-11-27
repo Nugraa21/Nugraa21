@@ -63,6 +63,6 @@ lagi juga disainer itu juga menyenangkan karena saya bisa membuat sebuah hal yan
 ## Tips belajar dari aku si 
 
 Tetap coba walau tidak tahu carilah tutorial 
-dan jangan sekedar melihat . lihatlah dan coba di saat itu juga maka kamu akan elalu menginat karena saat kalian melihat otak kalian akan bekerja 2 kali melihat dan mencoa saat itu 
-bagi saya itu agar daat di ingat 
+dan jangan sekedar melihat . lihatlah dan coba di saat itu juga maka kamu akan selalu mengingat karena saat kalian melihat otak kalian akan bekerja 2 kali melihat dan mencoba saat itu 
+bagi saya itu agar dapat di ingat 
 
