@@ -23,16 +23,23 @@ You can click the Preview link to take a look at your changes.
 
 ## saya mau membagikan pengalaman saya dalam _Programer_ Web
 
->Apa itu programer
 
-seseorang yang bertugas untuk membuat perangkat lunak atau aplikasi komputer dengan merancang
-instruksi kode-kode pemrograman khusus
->tetapi _PROGRAMER_ yang saya sukai _PROGRAMER_ Dalam web
+## _Programer_ Web
 
- ya itu
-seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat dalam, pengembangan
-aplikasi World Wide Web menggunakan client–server model
+Apa itu programer
 
+<h3 align="left"></h3>
+
+> seseorang yang bertugas untuk membuat perangkat lunak atau aplikasi komputer dengan > merancang
+> instruksi kode-kode pemrograman khusus
+
+Apa itu Programer web
+
+<h3 align="left"></h3>
+
+> ya itu
+> seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat dalam, > pengembangan
+> aplikasi World Wide Web menggunakan client–server model
 # Ini berawal paada awal tahun 2019 awalnya saya mencoba untuk membuat sebuah web sendiri menggunakan Bloger
 
 
