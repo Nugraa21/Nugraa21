@@ -64,7 +64,7 @@ Halo! Nama saya **Ludang Prasetyo Nugroho**, seorang mahasiswa Teknik Komputer d
 ## 📫 Kontak Saya
 - 🌐 Website: [nugra.online](https://nugra.online)
 - ✉️ Email: nugra.ludang@gmail.com
-- 💼 LinkedIn: (bisa ditambahkan jika ada)
+- 💼 LinkedIn: ( - - - - -)
 
 ---
 
