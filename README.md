@@ -1,7 +1,6 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/150422561?v=4"> -->
 
-<h1 align="center">Hai 👋, Saya Nugra</h1>
-<h1 align="center">Hai[ Ludang prasetyo nugroho ]</h1>
+<h1 align="center">Hai 👋, Saya Nugra</h1> </br>[ Ludang prasetyo nugroho ]</h1>
 <h3 align="center">Pemula yang Bersemangat di Dunia Teknologi 🚀</h3>
 
 <p align="center">
