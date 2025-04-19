@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@nugra21" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCnugra21fakeid?style=social" alt="YouTube subscribers"/>
   </a>
-  <a href="mailto:nugra.ludang@gmail.com">
+  <a href="mailto:nugra315@gmail.com">
     <img src="https://img.shields.io/badge/Email-DM%20me-red" alt="Email Badge"/>
   </a>
   <a href="https://nugra.online" target="_blank">
@@ -63,7 +63,7 @@ Halo! Nama saya **Ludang Prasetyo Nugroho**, seorang mahasiswa Teknik Komputer d
 
 ## 📫 Kontak Saya
 - 🌐 Website: [nugra.online](https://nugra.online)
-- ✉️ Email: nugra.ludang@gmail.com
+- ✉️ Email: nugra315@gmail.com
 - 💼 LinkedIn: ( - - - - -)
 
 ---
