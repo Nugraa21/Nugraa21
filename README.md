@@ -82,6 +82,7 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
 - 💼 LinkedIn: *(segera tersedia)*
 
 ---
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > ✨ *"Belajar itu proses. Gagal? Coba lagi. Berkembang pelan-pelan, tapi pasti."*
 
