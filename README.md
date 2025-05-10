@@ -1,21 +1,23 @@
-<!-- <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/150422561?v=4"> -->
-
-<h1 align="center">👋 Halo, Saya <span style="color:#00C9A7;">Nugra</span> [Ludang Prasetyo Nugroho]</h1>
+<!-- Banner atau Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Nugra!;Mahasiswa+Teknik+Komputer+di+UTDI.;Pemrograman,+IoT,+dan+Desain+Multimedia.;Selamat+Datang+di+Profil+Saya!&center=true&width=500&height=45&color=00c9a7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Nugra!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Content+Creator;&center=true&width=500&height=45">
 </p>
-<h3 align="center">💻 Pemula yang Bersemangat di Dunia Teknologi 🚀</h3>
+
+<h1 align="center">Hai 👋, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
+<h3 align="center">Pemula yang Bersemangat di Dunia Teknologi 🚀</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@nugra21" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCnugra21fakeid?style=social" alt="YouTube subscribers"/>
   </a>
   <a href="mailto:nugra315@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Kontak%20Saya-red?logo=gmail" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-DM%20me-red" alt="Email Badge"/>
   </a>
   <a href="https://nugra.online" target="_blank">
-    <img src="https://img.shields.io/badge/Website-nugra.online-blue?logo=google-chrome" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-nugra.online-blue" alt="Website"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=nugra21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>
 </p>
 
 ---
@@ -82,7 +84,7 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
 - 💼 LinkedIn: *(segera tersedia)*
 
 ---
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 > ✨ *"Belajar itu proses. Gagal? Coba lagi. Berkembang pelan-pelan, tapi pasti."*
 
