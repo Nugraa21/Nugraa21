@@ -56,7 +56,7 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP" style="margin: 10px"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" style="margin: 10px"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" style="margin: 10px"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="40" title="Travis CI" style="margin: 10px"/></a>
+<!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="40" title="Travis CI" style="margin: 10px"/></a> -->
   <a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" title="Unity" style="margin: 10px"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" title="LaTeX" style="margin: 10px"/></a>
 </p>
