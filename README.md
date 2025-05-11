@@ -1,6 +1,6 @@
 <!-- Banner atau Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Nugra!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Content+Creator;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Content+Creator;&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">Hai 👋, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
