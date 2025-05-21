@@ -1,7 +1,7 @@
 <!-- Banner atau Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Nugra21!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Creator;&center=true&width=500&height=45">
-</p>                                                                
+</p>                                                               
 
 <h1 align="center">Hai 👋, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
 <h3 align="center">Pemula yang Bersemangat di Dunia Teknologi 🚀</h3>
