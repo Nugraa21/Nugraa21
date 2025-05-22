@@ -79,7 +79,7 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
 
 ## 📫 Kontak Saya
 
-- 🌍 Website: [nugra.online](https://nugra.online)
+- 🌍 Website: [nugra.my.id](https://nugra.my.id)
 - 📧 Email: [nugra315@gmail.com](mailto:nugra315@gmail.com)
 - 💼 LinkedIn: *(segera tersedia)*
 
