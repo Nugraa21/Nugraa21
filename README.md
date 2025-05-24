@@ -31,7 +31,7 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
 - ⚙️ Eksperimen dengan Arduino dan ESP32
 
 ### 🔍 Saat ini saya sedang:
-- 🚀 Belajar **HTML, CSS, JavaScript, PHP**
+- 🚀 Belajar **REACT , Node JS ,dana Database Virebase**
 - 🔌 Mengembangkan proyek **IoT berbasis ESP32**
 - 📹 Membuat konten **YouTube bertema teknologi**
 
