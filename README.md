@@ -1,73 +1,64 @@
-<!-- Banner atau Header -->    
+<!-- Banner Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+Saya+Nugra21!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Creator;&center=true&width=500&height=45">
-</p>                                                        
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Nugra21!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Creator" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hai 👋, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
-<h3 align="center">Pemula yang Bersemangat di Dunia Teknologi 🚀</h3>
+<h1 align="center">👋 Hai, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
+<h3 align="center">💡 Pemula Bersemangat di Dunia Teknologi & Digital Kreatif 🚀</h3>
+
+---
 
 <p align="center">
-  <a href="https://www.youtube.com/@nugra21" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCnugra21fakeid?style=social" alt="YouTube subscribers"/>
+  <a href="https://nugra.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nugra.my.id-orange?style=for-the-badge&logo=firefox" />
   </a>
   <a href="mailto:nugra315@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DM%20me-red" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Kontak%20Saya-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://nugra.online" target="_blank">
-    <img src="https://img.shields.io/badge/Website-nugra.online-blue" alt="Website"/>
+  <a href="https://www.youtube.com/@nugra21" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCnugra21fakeid?style=for-the-badge&label=YouTube&logo=youtube&color=red" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nugra21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>
+  <img src="https://komarev.com/ghpvc/?username=nugra21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 Tentang Saya
-Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. Saya sangat tertarik dengan:
 
-- 🌐 Pengembangan Web
-- 🤖 Proyek Internet of Things (IoT)
-- 🎨 Desain Multimedia (Video, Foto, UI)
-- ⚙️ Eksperimen dengan Arduino dan ESP32
+Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. Saya suka ngoding, bikin proyek IoT, dan mendesain berbagai hal keren!
 
-### 🔍 Saat ini saya sedang:
-- 🚀 Belajar **REACT , Node JS ,dana Database Virebase**
-- 🔌 Mengembangkan proyek **IoT berbasis ESP32**
-- 📹 Membuat konten **YouTube bertema teknologi**
+### 🎯 Minat & Fokus Saat Ini
+- 🔧 Mengembangkan proyek **IoT berbasis ESP32**
+- 🌐 Belajar **React.js, Node.js, dan Firebase**
+- 📹 Aktif bikin konten edukasi & eksperimen di **YouTube**
 
 ---
 
-## ⚙️ Teknologi & Tools Favorit
+## 🛠️ Skill & Tools
 
 <p align="center">
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino" style="margin: 10px"/></a>
-  <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" title="Blender" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" style="margin: 10px"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker" style="margin: 10px"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter" style="margin: 10px"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" style="margin: 10px"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" title="Adobe Illustrator" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" style="margin: 10px"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" style="margin: 10px"/></a>
-<!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="40" title="Travis CI" style="margin: 10px"/></a> -->
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" title="Unity" style="margin: 10px"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" title="LaTeX" style="margin: 10px"/></a>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,java,javascript,html,css,php,nodejs,react,dart,flutter,mysql,firebase,git,docker,figma,illustrator,latex,unity&perline=9" />
 </p>
 
+---
+
+## 🌐 Proyek Unggulan
+
+📡 **Monitoring Kolam Lele (Flutter + MQTT + ESP32)**  
+🎮 **Mini-game Bot WhatsApp dengan XP System**  
+📊 **Dashboard Sensor Gempa (MQTT + JS)**  
+🎨 **Desain UI Crypto-Style Dashboard (Flutter)**
+
+Cek selengkapnya di: [**nugra.my.id/projects**](https://nugra.my.id/projects)
 
 ---
 
 ## 🎥 YouTube Channel
-> 📺 Saya berbagi video tentang tutorial coding, eksperimen IoT, dan teknologi lainnya.
+
+> Saya rutin berbagi konten tentang:
+> - Tutorial Arduino & ESP32  
+> - Pemrograman Web & IoT  
+> - Review alat & eksperimen seru  
 
 <p align="center">
   <a href="https://www.youtube.com/@nugra21" target="_blank">
@@ -77,19 +68,20 @@ Halo! Saya **Ludang Prasetyo Nugroho**, mahasiswa Teknik Komputer di **UTDI**. S
 
 ---
 
-## 📫 Kontak Saya
+## 📬 Hubungi Saya
 
-- 🌍 Website: [nugra.my.id](https://nugra.my.id)
-- 📧 Email: [nugra315@gmail.com](mailto:nugra315@gmail.com)
-- 💼 LinkedIn: *(segera tersedia)*
+| Media      | Info                              |
+|------------|-----------------------------------|
+| 🌍 Website | [https://nugra.my.id](https://nugra.my.id) |
+| 📧 Email   | [nugra315@gmail.com](mailto:nugra315@gmail.com) |
+| 🔗 LinkedIn| *(segera tersedia)*              |
 
 ---
-
 
 > ✨ *"Belajar itu proses. Gagal? Coba lagi. Berkembang pelan-pelan, tapi pasti."*
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Selamat+Datang+di+Profil+Saya!;Saya+Suka+Ngoding+dan+Eksperimen+IoT;Mari+Berbagi+Ilmu!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profil+Saya!;Saya+Suka+Ngoding+dan+Eksperimen+IoT;Mari+Berbagi+Ilmu+dan+Proyek!" />
 </p>
