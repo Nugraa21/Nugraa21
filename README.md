@@ -74,7 +74,7 @@ Cek selengkapnya di: [**nugra.my.id/projects**](https://nugra.my.id/projects)
 |------------|-----------------------------------|
 | 🌍 Website | [https://nugra.my.id](https://nugra.my.id) |
 | 📧 Email   | [nugra315@gmail.com](mailto:nugra315@gmail.com) |
-| 🔗 LinkedIn| *(segera tersedia)*              |
+| 🔗 LinkedIn| [Linkedin](www.linkedin.com/in/ludang-prasetyo-4773b6361)            |
 
 ---
 
