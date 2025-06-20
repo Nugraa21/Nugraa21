@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Nugra21!;Programmer+%7C+IoT+Enthusiast+%7C+Tech+Creator" alt="Typing SVG" />
 </p>
-
+ 
 <h1 align="center">👋 Hai, Saya Nugra [ Ludang Prasetyo Nugroho ]</h1>
 <h3 align="center">💡 Pemula Bersemangat di Dunia Teknologi & Digital Kreatif 🚀</h3>
 
