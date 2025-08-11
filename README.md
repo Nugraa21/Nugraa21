@@ -93,9 +93,9 @@ Jangan ragu untuk menghubungi saya melalui saluran berikut:
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nugra21/Nugra21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nugra21/Nugra21/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Nugra21/Nugra21/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/github-snake.svg" />
 </picture>
 
 ![Snake animation custom](https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/ocean.gif)
