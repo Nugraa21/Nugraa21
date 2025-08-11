@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # Gunakan username GitHub kamu
-          github_user_name: Nugraa21
+          github_user_name: Nugra21
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
