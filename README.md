@@ -87,6 +87,17 @@ Jangan ragu untuk menghubungi saya melalui saluran berikut:
 > ✨ *"Belajar adalah proses yang berkelanjutan. Kegagalan adalah bagian dari perjalanan. Teruslah berkembang secara bertahap, namun pasti."*
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nugraa21&color=blueviolet" />
+  <a href="https://github.com/Nugraa21">
+    <img src="https://img.shields.io/github/followers/Nugraa21?style=social" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nugraa21&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nugraa21&theme=radical&border_radius=10&hide_border=true" height="150"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profil+Saya!;Saya+Suka+Ngoding+dan+Eksperimen+IoT;Mari+Berbagi+Ilmu+dan+Proyek!" alt="Closing Animation" />
@@ -98,4 +109,4 @@ Jangan ragu untuk menghubungi saya melalui saluran berikut:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/github-snake.svg" />
 </picture>
 
-![Snake animation custom](https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/ocean.gif)
+<!-- ![Snake animation custom](https://raw.githubusercontent.com/Nugraa21/Nugraa21/output/ocean.gif) -->
